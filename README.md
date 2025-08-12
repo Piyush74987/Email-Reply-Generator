@@ -174,11 +174,13 @@ npm run build
   <section>
     <h2>Screenshots</h2>
     <h3>Postman</h3>
-   <img width="1413" height="827" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/46445019-59c0-4de9-9073-0c855281b52d" />
+<img width="1413" height="827" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/f97f0f1a-5249-4401-978d-a0ae8823047b" />
+
    <h3>Frontend</h3>
- <img width="1920" height="899" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/9b876743-eace-4dbe-a222-e5cb984d6701" />
-       <h3>Gmail Extension</h3>
- <img width="1591" height="848" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/33a74332-d72b-4c67-b231-0104d81d645a" />
+<img width="1920" height="899" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/f1260bc4-1244-433f-b913-1ad0b7a8e7ee" />
+
+ <h3>Gmail Extension</h3>
+<img width="1591" height="848" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/8bbaf2a4-f9a0-4def-9c16-70bfd4353cde" />
 
   </section>
 
